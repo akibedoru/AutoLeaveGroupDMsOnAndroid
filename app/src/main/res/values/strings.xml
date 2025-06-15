@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExitGroupTool</string>
+    <string name="keyword_hint">脱退するグループ名のキーワード（例: ベッドロック）</string>
+    <string name="save_button">保存</string>
+</resources>
