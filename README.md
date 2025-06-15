@@ -24,4 +24,7 @@
 - もし何かが起きて自動脱退が止まったら、アクセシビリティをオフにしてもう一度オンにすると自動脱退が再起動します。
 - キーワードがディスコードの画面内にあれば、それがなんであろうとそれを押そうとするので注意してください。
 
+## APKのインストールはこちら
+ - [最新リリース](https://github.com/akibedoru/AutoLeaveGroupDMsOnAndroid/releases)
+
 made by dos_fridge
