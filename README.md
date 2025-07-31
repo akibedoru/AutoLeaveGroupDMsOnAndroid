@@ -28,5 +28,3 @@
 
 ## APKのインストールはこちら
  - [最新リリース](https://github.com/akibedoru/AutoLeaveGroupDMsOnAndroid/releases)
-
-made by dos_fridge
